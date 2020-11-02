@@ -1,0 +1,3 @@
+rootProject.name = 'HW_cybercube_scores'
+include('collector','processor')
+
